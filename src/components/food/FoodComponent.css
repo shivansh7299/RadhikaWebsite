@@ -1,0 +1,53 @@
+/* #card {
+  margin: 20px;
+  border: none;
+  background-color: rgb(97, 73, 230);
+  align-items: center;
+  text-align: center;
+ justify-content: flex-end; 
+} */
+#card {
+  background-color: white;
+  opacity: 1;
+}
+#heading {
+  background-color: lightblue;
+  padding: 2rem;
+}
+#card:hover {
+  opacity: 0.6;
+  color: red;
+}
+#img {
+  height: 20rem;
+  width: 20rem;
+}
+#atag {
+  text-decoration: none;
+}
+#btn {
+  margin: 20px;
+  text-align: center;
+}
+.container1 {
+  /* background-color: violet; */
+}
+
+#jam {
+  background-color: white;
+  text-decoration: underline;
+  text-decoration-color: black;
+  color: black;
+  text-align: center;
+}
+#subheading {
+  padding: 2rem;
+  color: indianred;
+}
+#jam2 {
+  background-color: white;
+  text-decoration: underline;
+  color: black;
+  text-decoration-color: blanchedalmond;
+  text-align: center;
+}

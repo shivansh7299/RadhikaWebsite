@@ -1,6 +1,12 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "theme_color" : "#3573f6",
+  "background_color" : "#35f6de",
+  "display" : "standalone",
+  "scope" : "/",
+  "start_url" : "/",
+  "name" : "Hotel Radhika",
+  "short_name" : "Radhika",
+  "description" : "Hotel Radhika app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +14,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "images/icon/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "images/icon/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }

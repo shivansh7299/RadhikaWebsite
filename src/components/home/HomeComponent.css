@@ -1,0 +1,16 @@
+.intro {
+  color: white;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  margin: 20px;
+}
+#home {
+  padding: 2rem;
+  background-color: darkcyan;
+}
+.img {
+  width: 50rem;
+  height: 30rem;
+}

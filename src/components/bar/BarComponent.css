@@ -1,0 +1,25 @@
+#card {
+  margin: 20px;
+  border: none;
+  /* background-color: rgb(97, 73, 230); */
+  align-items: center;
+  text-align: center;
+  /* justify-content: flex-end; */
+}
+
+#atag {
+  text-decoration: none;
+}
+#btn {
+  margin: 20px;
+  text-align: center;
+}
+
+/* .container1 {
+  background-image: url("../../assets/images/snacks.jpg");
+} */
+#bar {
+  padding-top: 4rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
